@@ -2,6 +2,10 @@
 
 Simulador de investimentos e aposentadoria, gratuito e sem cadastro. Projeta o crescimento do patrimônio com juros compostos, inflação, cenários diferentes e renda estimada na aposentadoria.
 
+## Por que existe
+
+Muita gente não sabe se está investindo o suficiente pra se aposentar bem, ou fica perdida com planilha complicada e conta que não bate. O objetivo do InvestPro é dar um cálculo transparente, que a pessoa entende e pode ajustar do jeito que quiser (quanto investe, quando quer se aposentar, taxa de juros, inflação), pra ela enxergar com clareza o caminho até o próprio futuro financeiro.
+
 Este repositório é uma vitrine do projeto. O código-fonte é privado.
 
 🔗 Demo ao vivo: [em breve]
